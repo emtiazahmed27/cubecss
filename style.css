@@ -1,0 +1,21 @@
+body {
+  font-family: "Radio Canada", "San-serif";
+  background-color: #d7e1fe;
+}
+h3 {
+  font-weight: 700;
+}
+p {
+  font-weight: 300;
+}
+h6 {
+  font-weight: 500;
+}
+.card-plan {
+  background-color: var(--bs-gray-200);
+}
+.btn-primary {
+  padding: 1rem 10rem;
+  border-radius: 0.5rem;
+  background-color: var(--bs-indigo);
+}
